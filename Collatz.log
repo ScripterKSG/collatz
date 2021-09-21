@@ -1,3 +1,9 @@
+commit cdf0d2aa680c6ccc55e8f0a8c258f94bd98ea190
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Thu Sep 16 12:29:59 2021 -0500
+
+    Trying to revalidate pipeline after user validation done properly
+
 commit 5f0225e9642b16542c1746dcf4dd824b2dcfa499
 Author: ScripterKSG <jasonn1210@gmail.com>
 Date:   Thu Sep 16 12:26:25 2021 -0500
