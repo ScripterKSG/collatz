@@ -1,3 +1,9 @@
+commit 306ae862259908e8dbe56d69fedaf31b46607b6a
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Tue Sep 21 11:53:03 2021 -0500
+
+    Fixed given unit tests and fixed TestCollatz.out
+
 commit cdf0d2aa680c6ccc55e8f0a8c258f94bd98ea190
 Author: ScripterKSG <jasonn1210@gmail.com>
 Date:   Thu Sep 16 12:29:59 2021 -0500
