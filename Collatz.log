@@ -1,3 +1,21 @@
+commit 81e28933779144fe0b2ed6e21869171c8b184354
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 01:13:57 2021 -0500
+
+    added and testing more unit tests, including corner cases, and implemented simple solution to collatz eval
+
+commit c3a6aa2c1934b89727737bf85dac854fa6e71178
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 00:37:34 2021 -0500
+
+    Adding more test cases and confirming expected failures through coverage
+
+commit 136988c40c93904632c45481e19283b8c42c5e75
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 00:23:26 2021 -0500
+
+    Trying to fix failed pipeline
+
 commit ed7f1f78709a4c19af478a99a38ffaecb4bd0692
 Author: ScripterKSG <jasonn1210@gmail.com>
 Date:   Sun Sep 26 00:21:21 2021 -0500
