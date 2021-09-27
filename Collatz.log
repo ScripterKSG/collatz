@@ -1,3 +1,9 @@
+commit 7d618edca9af29a06752e3175b42088a28485a29
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 02:04:24 2021 -0500
+
+    Editted collatz_eval, added about 55 more acceptance tests
+
 commit 81e28933779144fe0b2ed6e21869171c8b184354
 Author: ScripterKSG <jasonn1210@gmail.com>
 Date:   Sun Sep 26 01:13:57 2021 -0500
