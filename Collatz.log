@@ -1,3 +1,57 @@
+commit b8a93623ddf8475caee2b272b34631f6a16faa97
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sat Oct 2 15:26:46 2021 -0500
+
+    Implemented simple optimization to Collatz.py using dictionary
+
+commit 7babddbd4c2009d78c67242c55de0611c82b60af
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 23:08:35 2021 -0500
+
+    Added more test cases in RunCollatz out and in
+
+commit 7d618edca9af29a06752e3175b42088a28485a29
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 02:04:24 2021 -0500
+
+    Editted collatz_eval, added about 55 more acceptance tests
+
+commit 81e28933779144fe0b2ed6e21869171c8b184354
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 01:13:57 2021 -0500
+
+    added and testing more unit tests, including corner cases, and implemented simple solution to collatz eval
+
+commit c3a6aa2c1934b89727737bf85dac854fa6e71178
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 00:37:34 2021 -0500
+
+    Adding more test cases and confirming expected failures through coverage
+
+commit 136988c40c93904632c45481e19283b8c42c5e75
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 00:23:26 2021 -0500
+
+    Trying to fix failed pipeline
+
+commit ed7f1f78709a4c19af478a99a38ffaecb4bd0692
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Sun Sep 26 00:21:21 2021 -0500
+
+    Fixing given unittests and confirming expected failures
+
+commit 306ae862259908e8dbe56d69fedaf31b46607b6a
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Tue Sep 21 11:53:03 2021 -0500
+
+    Fixed given unit tests and fixed TestCollatz.out
+
+commit cdf0d2aa680c6ccc55e8f0a8c258f94bd98ea190
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Thu Sep 16 12:29:59 2021 -0500
+
+    Trying to revalidate pipeline after user validation done properly
+
 commit 5f0225e9642b16542c1746dcf4dd824b2dcfa499
 Author: ScripterKSG <jasonn1210@gmail.com>
 Date:   Thu Sep 16 12:26:25 2021 -0500
