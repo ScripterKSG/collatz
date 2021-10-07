@@ -2,7 +2,7 @@
 
 # -------------------------------
 # projects/collatz/TestCollatz.py
-# Copyright (C) 
+# Copyright (C)
 # Glenn P. Downing
 # -------------------------------
 
@@ -130,6 +130,7 @@ class TestCollatz (TestCase):
 # ----
 # main
 # ----
+
 
 if __name__ == "__main__":
     main()

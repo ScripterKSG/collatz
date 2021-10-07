@@ -30,9 +30,11 @@ def collatz_eval(i, j):
     i the beginning of the range, inclusive
     j the end       of the range, inclusive
     return the max cycle length of the range [i, j]
+
+    Uses dictionary named repeats as a cache to improve
+    efficiency and runtime speed
     """
 
-    # dictionary to keep track of repeated values
     repeats = {}
 
     max_cycle = 1
@@ -42,9 +44,9 @@ def collatz_eval(i, j):
         holder = j
         j = i
         i = holder
-    
+
     index = i
-    
+
     if ((i < 1) or (i > 999999)):
         return 0
     if ((j < 1) or (j > 999999)):
@@ -55,7 +57,7 @@ def collatz_eval(i, j):
                 if index in repeats.keys():
                     current_cycle += repeats[index] - 1
                     index = 1
-                elif index%2 == 0:
+                elif index % 2 == 0:
                     index /= 2
                     current_cycle += 1
                 else:
@@ -71,7 +73,7 @@ def collatz_eval(i, j):
             current_cycle = 1
             i += 1
             index = i
-            
+
     # <your code>
     return max_cycle
 
