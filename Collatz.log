@@ -1,3 +1,27 @@
+commit 44e099e7de7374abea4736c75f884ab6e1427780
+Merge: 7beee3e 2854f1f
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Thu Oct 7 02:36:57 2021 -0500
+
+    Merge branch 'main' of https://gitlab.com/ScripterKSG/collatz
+
+commit 7beee3eaaeb2c11b7ddde8bc621f726e0bf681ed
+Author: ScripterKSG <jasonn1210@gmail.com>
+Date:   Thu Oct 7 02:35:08 2021 -0500
+
+    Phase 5 finalization attempt
+
+commit 2854f1f656bbca8fae7f66db424960519fd8b03e
+Merge: cdf0d2a 14e2848
+Author: Jason Nguyen <jasonn1210@gmail.com>
+Date:   Mon Oct 4 14:56:59 2021 +0000
+
+    Merge branch 'dev' into 'main'
+    
+    added and testing more unit tests, including corner cases, and implemented...
+    
+    See merge request ScripterKSG/collatz!1
+
 commit 14e28485a6e2464fa62ab5ef915c13a23734fdcf
 Author: ScripterKSG <jasonn1210@gmail.com>
 Date:   Mon Oct 4 09:49:02 2021 -0500
